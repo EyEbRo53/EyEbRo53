@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m EyEbRo53 👋
 
-<!--
-**EyEbRo53/EyEbRo53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I enjoy building practical software and exploring new technologies.
+- 🌱 I’m currently learning and improving every day.
+- 🤝 I’m open to collaborating on interesting projects.
+- 🎯 Focus: writing clean, useful, and maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** Add your main languages here
+- **Frameworks:** Add your preferred frameworks here
+- **Tools:** Git, GitHub, and your daily dev tools
+
+## 📌 Featured Work
+- 🔹 Project Name — Short one-line description
+- 🔹 Project Name — Short one-line description
+- 🔹 Project Name — Short one-line description
+
+## 📫 Contact
+- GitHub: [@EyEbRo53](https://github.com/EyEbRo53)
+- Email: your-email@example.com
+
+---
+Thanks for visiting my profile!
