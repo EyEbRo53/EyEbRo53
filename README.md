@@ -20,7 +20,6 @@ Welcome to my GitHub profile.
 
 ## 📫 Contact
 - GitHub: [@EyEbRo53](https://github.com/EyEbRo53)
-- Email: your-email@example.com
 
 ---
 Thanks for visiting my profile!
